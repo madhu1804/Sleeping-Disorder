@@ -60,3 +60,31 @@ that is used to identify apnea - one being the heart rate and the other being th
 readings from the ECG signs. These readings are utilized as information feeds to the
 classifier, supported through the support vector machine algorithm to aid apnea
 recognition.
+
+Technical Specificatios:
+
+Retrieving the data:  The required data for the study was
+retrieved from physionet website using WFDB software in
+MATLAB. This data cannot be retrieved directly as it is
+secured; it can only be retrieved using the WFDB package.
+There are 70 recordings in this dataset. For the purpose of the
+study, 35 records were considered for the learning set and the
+remaining 35 records were considered for testing the data set.
+
+
+Machine learning algorithm : Using the SVM algorithm, the
+system analyses the information that is provided and predicts
+whether the person is going to get a Apnea or not.
+
+ Prediction: By referring to the machine learning principles
+defined in the model, it is possible to predict whether the
+person is prone to sleep apnea or not.
+
+Uniqueness: Our system is unique as we present the
+diagnosis based on machine learning models that take live
+values and analyses it on a real time basis. This would be very
+crucial as alerts for coma patients.
+
+Database : Our system can handle large amounts of data sets
+and here in the project, we are focusing on the ECG signal
+dataset.
