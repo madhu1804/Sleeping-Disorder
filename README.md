@@ -41,6 +41,7 @@ and using machine learning techniques to assess if the person has sleep apnea di
 based on the ECG readings.
 
 MOTIVATION:
+
 Nap apnea analysis necessary since of the fitness threats for example blow, unhappiness
 and summary occupied productivity. principal object is developing a effective procedure
 for organization of breathing indications they sense nap apnea. It could be attained
@@ -48,6 +49,7 @@ through modest process for breathing indicator arrangement spending MATLAB code.
 
 
 BACKGROUND:
+
 Nap apnea usually defined as termination of living throughout nap. Furthermore,
 observed a danger mutable for monotony & humanity since long-standing influence on
 ECG Signal. Its influence remains recognized numerous physical appliances such as
